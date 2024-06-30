@@ -54,7 +54,7 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _colortrans: 0
+    - _colortrans: 1
     - _max: 1
     - _min: 0.3
     m_Colors:
